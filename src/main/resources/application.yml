@@ -1,0 +1,5 @@
+server.port: 1999
+spring.application.name: eureka-server-test
+
+eureka.client.registerWithEureka: false
+eureka.client.fetchRegistry: false
